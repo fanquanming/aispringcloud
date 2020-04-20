@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      name: configclient
+      name: configclinet
       label: master
       discovery:
         enable: true

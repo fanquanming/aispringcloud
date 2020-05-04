@@ -8,7 +8,7 @@ spring:
       server:
         git:
           uri: https://github.com/fanquanming/aispringcloud.git
-          searchPaths: config
+          searchPaths:
           username: fanquanming
           password: f2535314152
       label: master

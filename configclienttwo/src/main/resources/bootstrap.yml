@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: configclienttwo
   cloud:
     config:
       name: config-dev

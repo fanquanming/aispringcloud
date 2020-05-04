@@ -13,6 +13,9 @@
     <file url="file://$PROJECT_DIR$/navtiveconfigsever" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/resttemplate" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuibian" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinclient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
   </component>
 </project>

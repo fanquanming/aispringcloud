@@ -4,4 +4,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 config:
-    info: i am master batch
+    info: i am master batch version = 2

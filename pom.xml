@@ -23,6 +23,7 @@
         <module>configclient</module>
         <module>zipkin</module>
         <module>zipkinclient</module>
+        <module>configclienttwo</module>
 
     </modules>
     <parent>

@@ -3,7 +3,6 @@ package com.southwind.controller;
 import com.southwind.entity.Student;
 import com.southwind.feign.FeignProviderClient;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,6 +13,7 @@ import java.util.Collection;
 @Controller
 @RequestMapping("/feign")
 public class FeignHandler {
+
     @Autowired
     private FeignProviderClient feignProviderClient;
     @GetMapping("/findAll")
